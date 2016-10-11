@@ -1,0 +1,9 @@
+argparse==1.2.1
+backports.ssl-match-hostname==3.5.0.1
+peewee==2.8.5
+requests==2.11.1
+six==1.10.0
+slackbot==0.4.1
+slacker==0.9.25
+websocket-client==0.37.0
+wsgiref==0.1.2
